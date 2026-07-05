@@ -160,7 +160,7 @@ You're also welcome to cite the dataset repository itself:
   title     = {NotebookLM Podcast Dataset with WhisperX Speaker Diarization},
   year      = {2026},
   publisher = {GitHub},
-  url       = {https://github.com/yourusername/your-repo}
+  url       = {https://github.com/artemsaloev/NotebookLM-Generated-Podcasts}
 }
 ```
 
