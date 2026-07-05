@@ -136,7 +136,23 @@ a third-party tool.
 
 ## Citation
 
-If you use this dataset, please cite:
+This dataset was used in the following peer-reviewed publication. If you
+use this dataset, please cite the paper:
+ 
+```
+@inproceedings{saloev2026rhythm,
+  author    = {Saloev, Artem and Ballier, Nicolas},
+  title     = {Rhythm Variability in NotebookLM Podcasts},
+  booktitle = {Speech Prosody 2026},
+  year      = {2026},
+  address   = {Philadelphia, Pennsylvania, USA},
+  month     = {May},
+  doi       = {10.21437/SpeechProsody.2026-182},
+  pages     = {897--901}
+}
+```
+ 
+You're also welcome to cite the dataset repository itself:
 
 ```
 @dataset{saloev_2026_notebooklm_podcast_diarization,
