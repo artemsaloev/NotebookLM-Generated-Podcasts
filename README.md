@@ -95,7 +95,7 @@ output. In short:
   itself.
 
   
-![Confusion matrix of WhisperX voice-count predictions vs. ground truth](figures/confusion_matrix_voices.png)
+![Confusion matrix of WhisperX voice-count predictions vs. ground truth](confusion_matrix_voices.png)
 
 
 
