@@ -94,6 +94,11 @@ output. In short:
   generation/diarization artifact, not an error in the transcript content
   itself.
 
+  
+![Confusion matrix of WhisperX voice-count predictions vs. ground truth](figures/confusion_matrix_voices.png)
+
+
+
 ## How This Dataset Was Created
 
 1. Source papers/documents were uploaded to NotebookLM, along with a
